@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1666540983 source:d:\code\c++\tp\mod5_1301213292_ahp\main.cpp
+	"header.h"
+
+1666530845 d:\code\c++\tp\mod5_1301213292_ahp\header.h
+	<iostream>
+
+1666536412 source:d:\code\c++\tp\mod5_1301213292_ahp\menu.cpp
+	"header.h"
+
+1666540983 source:d:\1. kuliah\kuliah materi\semester 3\praktikum struktur data\mod 5\k\dit\mod5_1301213292_ahp\main.cpp
+	"header.h"
+
+1666530845 d:\1. kuliah\kuliah materi\semester 3\praktikum struktur data\mod 5\k\dit\mod5_1301213292_ahp\header.h
+	<iostream>
+
+1666541983 source:d:\1. kuliah\kuliah materi\semester 3\praktikum struktur data\mod 5\k\dit\mod5_1301213292_ahp\menu.cpp
+	"header.h"
+
+1666542068 source:d:\code\c++\tp\tp 05\mod5_1301213292_ahp fix\mod5_1301213292_ahp\main.cpp
+	"header.h"
+
+1666530845 d:\code\c++\tp\tp 05\mod5_1301213292_ahp fix\mod5_1301213292_ahp\header.h
+	<iostream>
+
+1666541983 source:d:\code\c++\tp\tp 05\mod5_1301213292_ahp fix\mod5_1301213292_ahp\menu.cpp
+	"header.h"
+
